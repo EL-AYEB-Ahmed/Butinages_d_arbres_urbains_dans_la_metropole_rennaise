@@ -1,7 +1,9 @@
 BUTINAGES D'ARBRES URBAINS DANS LA METROPOLE RENNAISE
 
 
-Objectifs:
+Conseils: pour visualiser les cartes dans le fichier docs vous pouvez telecharger les fichier html localement ou utiliser les liens qui sont dans la rebrique Actions
+
+Objectifs de mon projet (100% remplis):
 
 Ce projet a pour objectif de mettre en application les connaissances théoriques du cours d’Algorithmes, Structures de données 
 et Complexité à travers l’exploitation de ce jeu de données publique.
