@@ -1,4 +1,5 @@
-Objectifs
+BUTINAGES D'ARBRES URBAINS DANS LA METROPOLE RENNAISE
+Objectifs:
 Ce projet a pour objectif de mettre en application les connaissances théoriques du cours d’Algorithmes, Structures de données 
 et Complexité à travers l’exploitation de ce jeu de données publique.
 Au cours de ce sujet, j'ai appris comment réaliser:
